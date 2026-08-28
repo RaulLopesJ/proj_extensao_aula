@@ -3,6 +3,7 @@
 ## Sumário
 
 - [Especificação do curso](#especificação-do-curso)
+- [Documentos para entrega](#documentos-para-entrega)
 - [Anexos](#anexos)
 - [Justificativa](#justificativa)
 - [Objetivo](#objetivo)
@@ -17,6 +18,14 @@ A especificação do curso **Mercado de Trabalho (T.I.)** está organizada nos s
 - [Requisitos do curso](.kiro/specs/mercado-trabalho-ti/requirements.md) — objetivos, público-alvo, conteúdos e critérios de aceite;
 - [Design pedagógico](.kiro/specs/mercado-trabalho-ti/design.md) — plano das quatro aulas gravadas e da aula ao vivo, com atividades, entregas e materiais de apoio;
 - [Tarefas de desenvolvimento](.kiro/specs/mercado-trabalho-ti/tasks.md) — checklist para criação, produção, revisão, publicação e acompanhamento.
+
+## Documentos para entrega
+
+Modelos prontos para copiar para Google Docs ou Word e preencher durante a validação do projeto:
+
+- [Panorama e matriz de artefatos](docs/mercado-trabalho-ti/01-panorama-e-matriz-de-artefatos.md) — relação entre o planejamento atual e as evidências esperadas;
+- [Encontro 2 — Definição e validação do tema](docs/mercado-trabalho-ti/02-encontro-02-definicao-do-tema.md) — registro da escolha do tema Mercado de Trabalho (T.I.);
+- [Encontro 3 — Estrutura final do curso](docs/mercado-trabalho-ti/03-encontro-03-estrutura-final-do-curso.md) — proposta com público, objetivos, ementa, cronograma, atividades e critérios de aprovação.
 
 ## Anexos
 
